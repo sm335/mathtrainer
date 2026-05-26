@@ -3,6 +3,8 @@
 A Python-based app for practicing complex and annoying Math problems!
 For each problem you solve, you'll be rewarded with XP based on your answer time, accuracy, combo, and current event!
 
+Technologies used: Tkinter, SQLite3, threading
+
 Screenshots:
 ---
 
